@@ -29,4 +29,12 @@
 </div>
 
 
+<h2 align="center">🐍 My Contributions</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="Purple contribution snake" />
+
+</div>
+
 
