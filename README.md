@@ -28,16 +28,6 @@
 
 </div>
 
-
-<h2 align="center">🐍 My Contributions</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nora-mgy/nora-mgy/output/github-snake.svg" alt="Purple contribution snake" />
-
-</div>
-
-
 <h2 align="center">💜 About Me</h2>
 
 <div align="center">
@@ -69,4 +59,13 @@ nora@github:~$ _
 </table>
 
 </div>
+
+<h2 align="center">🐍 My Contributions</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nora-mgy/nora-mgy/output/github-snake.svg" alt="Purple contribution snake" />
+
+</div>
+
 
