@@ -1,6 +1,6 @@
-<svg width="800" height="320" viewBox="0 0 800 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="800" height="320" rx="18" fill="#0D1117"/>
-  <rect x="8" y="8" width="784" height="304" rx="14" stroke="#A855F7" stroke-width="2"/>
+<svg width="800" height="360" viewBox="0 0 800 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="360" rx="18" fill="#0D1117"/>
+  <rect x="8" y="8" width="784" height="344" rx="14" stroke="#A855F7" stroke-width="2"/>
 
   <!-- top bar -->
   <rect x="20" y="18" width="760" height="34" rx="10" fill="#161B22"/>
@@ -10,15 +10,16 @@
   <text x="400" y="40" text-anchor="middle" fill="#C9D1D9" font-family="monospace" font-size="16">nora@cybersecurity: ~</text>
 
   <!-- terminal text -->
-  <text x="35" y="85" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ whoami</text>
-  <text x="35" y="112" fill="#E6EDF3" font-family="monospace" font-size="19">Cyber Security Student 🔐</text>
+  <text x="35" y="88" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ whoami</text>
+  <text x="35" y="116" fill="#E6EDF3" font-family="monospace" font-size="19">Curious mind. Future cybersecurity professional. 🔐</text>
 
-  <text x="35" y="148" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ cat interests.txt</text>
-  <text x="35" y="175" fill="#E6EDF3" font-family="monospace" font-size="19">Ethical Hacking | Digital Forensics | SecOps</text>
+  <text x="35" y="154" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ cat interests.txt</text>
+  <text x="35" y="182" fill="#E6EDF3" font-family="monospace" font-size="19">Ethical Hacking | Digital Forensics | SecOps</text>
 
-  <text x="35" y="211" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ cat learning.txt</text>
-  <text x="35" y="238" fill="#E6EDF3" font-family="monospace" font-size="19">JavaScript | React | Python | Linux</text>
+  <text x="35" y="220" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ ./mission.sh</text>
+  <text x="35" y="248" fill="#4ADE80" font-family="monospace" font-size="18">[+] Exploring new technologies</text>
+  <text x="35" y="274" fill="#4ADE80" font-family="monospace" font-size="18">[+] Building practical skills</text>
+  <text x="35" y="300" fill="#4ADE80" font-family="monospace" font-size="18">[+] Working towards a career in cybersecurity</text>
 
-  <text x="35" y="274" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ ./status.sh</text>
-  <text x="35" y="301" fill="#4ADE80" font-family="monospace" font-size="18">[+] Curiosity: ENABLED   [+] Learning: IN PROGRESS   [+] Coffee: OPTIONAL ☕</text>
+  <text x="35" y="335" fill="#C084FC" font-family="monospace" font-size="20">nora@github:~$ <tspan fill="#E6EDF3">_</tspan></text>
 </svg>
