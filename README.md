@@ -15,3 +15,15 @@
 💻 Currently learning **JavaScript, React and Python**.
 
 </div>
+
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+### Tools & Technologies
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,linux" />
+
+</div>
