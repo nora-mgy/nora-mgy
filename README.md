@@ -27,3 +27,14 @@
 <img src="https://skillicons.dev/icons?i=react,git,github,vscode,linux" />
 
 </div>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nora-mgy&show_icons=true&theme=tokyonight" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nora-mgy&layout=compact&theme=tokyonight" height="165" />
+
+</div>
