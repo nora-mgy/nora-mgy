@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="Purple contribution snake" />
+<img src="https://raw.githubusercontent.com/nora-mgy/nora-mgy/output/github-snake.svg" alt="Purple contribution snake" />
 
 </div>
 
