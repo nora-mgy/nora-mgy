@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nora-mgy/nora-mgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nora! 👾
 
-Here are some ideas to get you started:
+### 🔐 Cyber Security Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BF91F9&center=true&vCenter=true&width=450&lines=Exploring+the+world+of+Cybersecurity;Learning+to+Code;Breaking+Things+to+Understand+Them;Always+Learning+Something+New" alt="Typing animation" />
+
+---
+
+💜 Passionate about technology, security and learning new skills.
+
+🛡️ Exploring **Ethical Hacking, Security Operations and Digital Forensics**.
+
+💻 Currently learning **JavaScript, React and Python**.
+
+</div>
