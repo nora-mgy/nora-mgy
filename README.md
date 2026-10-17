@@ -31,32 +31,8 @@
 <h2 align="center">💜 About Me</h2>
 
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-```bash
-nora@github:~$ whoami
-Cyber Security Student 🔐
-
-nora@github:~$ cat interests.txt
-Ethical Hacking | Digital Forensics | SecOps
-
-nora@github:~$ cat learning.txt
-JavaScript | React | Python | Linux
-
-nora@github:~$ ./status.sh
-[+] Curiosity: ENABLED
-[+] Learning: IN PROGRESS
-[+] Coffee: OPTIONAL ☕
-
-nora@github:~$ _
-```
-
-</td>
-</tr>
-</table>
+  <img src="./assets/purple-terminal.svg" alt="Purple terminal about me" width="85%" />
+</div>
 
 </div>
 
